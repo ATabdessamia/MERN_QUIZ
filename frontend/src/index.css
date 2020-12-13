@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Megrim&display=swap");
+
+body {
+  font-family: "Noto Sans JP", sans-serif !important;
+  background-color: #ff304f !important;
+}
+
+.megrim {
+  font-family: "Megrim", cursive !important;
+}
+
+.bg-easy {
+  background-color: #002651 !important;
+}
