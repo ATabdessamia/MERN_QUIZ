@@ -1,2 +1,2 @@
 # MERN_QUIZ
-QUIZ APP GO TO PLAY ^_^
+use [npm run dev](https://) to see my joke :sunglasses: 
